@@ -77,4 +77,4 @@ If you forget `--out-dir` while running under `sudo`, `provision` prints a warni
 
 ## Issues & support
 
-Report bugs and request features in this repo's [issue tracker](https://github.com/rfabric/agent/issues).
+Report bugs and request features in this repo's [issue tracker](https://github.com/rfabric/rfabricd/issues).
